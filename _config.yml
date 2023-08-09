@@ -86,9 +86,10 @@ author:
   location         : "Harbin, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TI2-YzYAAAAJ"
   email            : "ziyi.xie@hit.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TI2-YzYAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Ziyi-Xie-3"# example: "https://www.researchgate.net/profile/yourprofile"
+  github           : "xiezy1996"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiezy1996"
   google_plus      :
   keybase          :
   instagram        :
