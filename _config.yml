@@ -85,10 +85,10 @@ author:
   bio              : "PhD student at Harbin Institute of Technology (HIT)"
   location         : "Harbin, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ziyi.xie@hit.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Ziyi-Xie-3"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
