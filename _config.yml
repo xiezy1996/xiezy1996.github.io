@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziyi Xie"
+  name             : #"Ziyi Xie"
   avatar           : "profile.png"
-  bio              : "PhD student at Harbin Institute of Technology (HIT)"
+  bio              : "I am a PhD student at Harbin Institute of Technology (HIT)"
   location         : "Harbin, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
