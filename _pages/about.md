@@ -17,14 +17,13 @@ This is the front page of a website that is powered by the [academicpages templa
 Publications
 ------
 
-1. Z. Xie, W. Yi, X. Wu, Y. Liu, and A. Nallanathan, "[STAR-RIS Aided NOMA in Multicell Networks: A General Analytical Framework With Gamma Distributed Channel Modeling](https://ieeexplore.ieee.org/document/9808307)," IEEE Trans. Commun., vol. 70, no. 8, pp. 5629-5644, Aug. 2022.
-2. Z. Xie, W. Yi, X. Wu, Y. Liu, and A. Nallanathan, "[Downlink Multi-RIS Aided Transmission in Backhaul Limited Networks](https://ieeexplore.ieee.org/document/9772614)," IEEE Wireless Commun. Lett., vol. 11, no. 7, pp. 1458-1462, July 2022.
+1. **Ziyi Xie**, Yuanwei Liu, Jiaqi Xu, Xuanli Wu, and Arumugam Nallanathan, "[Performance Analysis for Near-Field MIMO: Discrete and Continuous Aperture Antennas](https://ieeexplore.ieee.org/document/10262267)," *IEEE Wireless Communications Letters*, early access. [arXiv](https://arxiv.org/abs/2304.06141)
+2. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "[STAR-RIS Aided NOMA in Multicell Networks: A General Analytical Framework With Gamma Distributed Channel Modeling](https://ieeexplore.ieee.org/document/9808307)," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5629-5644, Aug. 2022.
+3. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "[Downlink Multi-RIS Aided Transmission in Backhaul Limited Networks](https://ieeexplore.ieee.org/document/9772614)," *IEEE Wireless Communications Letters*, vol. 11, no. 7, pp. 1458-1462, July 2022.
+4. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "Is the Envelope Beneficial to Non-Orthogonal Multiple Access?," *IEEE Transactions on Communications*, minor revision. [arXiv](https://arxiv.org/abs/2210.13060)
+5. **Ziyi Xie**, Yuanwei Liu, Wenqiang Yi, Xuanli Wu, and Arumugam Nallanathan, "Performance Analysis for Near-Field MIMO: Discrete and Continuous Aperture Antennas," *IEEE Transactions on Wireless Communications*, minor revision. [arXiv](https://arxiv.org/abs/2304.06128)
+6. 
 
-
-
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Educations
 ------
