@@ -20,7 +20,7 @@ Publications
 1. **Ziyi Xie**, Yuanwei Liu, Jiaqi Xu, Xuanli Wu, and Arumugam Nallanathan, "[Performance Analysis for Near-Field MIMO: Discrete and Continuous Aperture Antennas](https://ieeexplore.ieee.org/document/10262267)," *IEEE Wireless Communications Letters*, early access. [arXiv](https://arxiv.org/abs/2304.06141)
 2. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "[STAR-RIS Aided NOMA in Multicell Networks: A General Analytical Framework With Gamma Distributed Channel Modeling](https://ieeexplore.ieee.org/document/9808307)," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5629-5644, Aug. 2022.
 3. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "[Downlink Multi-RIS Aided Transmission in Backhaul Limited Networks](https://ieeexplore.ieee.org/document/9772614)," *IEEE Wireless Communications Letters*, vol. 11, no. 7, pp. 1458-1462, July 2022.
-4. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "Is the Envelope Beneficial to Non-Orthogonal Multiple Access?," *IEEE Transactions on Communications*, minor revision. [arXiv](https://arxiv.org/abs/2210.13060)
+4. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "Is the Envelope Beneficial to Non-Orthogonal Multiple Access?," *IEEE Transactions on Communications*, minor revision. \[[arXiv](https://arxiv.org/abs/2210.13060)\]
 5. **Ziyi Xie**, Yuanwei Liu, Wenqiang Yi, Xuanli Wu, and Arumugam Nallanathan, "Performance Analysis for Near-Field MIMO: Discrete and Continuous Aperture Antennas," *IEEE Transactions on Wireless Communications*, minor revision. [arXiv](https://arxiv.org/abs/2304.06128)
 6. 
 
