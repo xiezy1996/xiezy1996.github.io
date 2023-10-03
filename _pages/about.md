@@ -30,9 +30,9 @@ Publications
 
 Educations
 ------
-* Sept. 2018 - present, PhD student, Harbin Institute of Technology, Harbin, supervised by Prof. Xuanli Wu.
-* Jan. 2021 - June 2023, research associate, Queen Mary University of London, London, supervised by Prof. Arumugam Nallanathan.
-* Sept. 2014 - June 2018, undergraduate, Harbin Institute of Technology, Harbin.
+* 2018.09 - present, PhD student, Harbin Institute of Technology, Harbin, supervised by Prof. Xuanli Wu.
+* 2021.01 - 2023.06, research associate, Queen Mary University of London, London, supervised by Prof. Arumugam Nallanathan.
+* 2014.09 - 2018.06, undergraduate, Harbin Institute of Technology, Harbin.
 
 
 Academic Services
