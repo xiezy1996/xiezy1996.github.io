@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 😄
+Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 👋
 =====
 
 I am pursuing the Ph.D. degree with the School of Electronics and Information Engineering, Harbin Institute of Technology. 
