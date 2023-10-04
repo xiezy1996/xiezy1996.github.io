@@ -13,7 +13,9 @@ Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 👋
 
 I am pursuing a PhD degree with the School of Electronics and Information Engineering, Harbin Institute of Technology. Before this, I earned a bachelor's degree of communication engineering at Harbin Institute of Technology.
 
-My research interests include reconfigurable intelligent surface aided communications, 
+My research interests include performance analysis on wireless communications, reconfigurable intelligent surfaces, near-field communications, and next-generation multiple access techniques.
+
+
 
 Publications
 ------
