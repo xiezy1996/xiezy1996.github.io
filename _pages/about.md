@@ -20,7 +20,7 @@ Publications
 1. **Ziyi Xie**, Yuanwei Liu, Jiaqi Xu, Xuanli Wu, and Arumugam Nallanathan, "[Performance Analysis for Near-Field MIMO: Discrete and Continuous Aperture Antennas](https://ieeexplore.ieee.org/document/10262267)," *IEEE Wireless Communications Letters*, early access. \[[arXiv](https://arxiv.org/abs/2304.06141)\]
 2. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "[STAR-RIS Aided NOMA in Multicell Networks: A General Analytical Framework With Gamma Distributed Channel Modeling](https://ieeexplore.ieee.org/document/9808307)," *IEEE Transactions on Communications*, vol. 70, no. 8, pp. 5629-5644, Aug. 2022.
 3. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "[Downlink Multi-RIS Aided Transmission in Backhaul Limited Networks](https://ieeexplore.ieee.org/document/9772614)," *IEEE Wireless Communications Letters*, vol. 11, no. 7, pp. 1458-1462, July 2022.
-4. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "Is the Envelope Beneficial to Non-Orthogonal Multiple Access?," *IEEE Transactions on Communications*, minor revision. \[[arXiv](https://arxiv.org/abs/2210.13060)\]
+4. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "Is the Envelope Beneficial to Non-Orthogonal Multiple Access?" *IEEE Transactions on Communications*, minor revision. \[[arXiv](https://arxiv.org/abs/2210.13060)\]
 5. **Ziyi Xie**, Yuanwei Liu, Wenqiang Yi, Xuanli Wu, and Arumugam Nallanathan, "Performance Analysis for Near-Field MIMO: Discrete and Continuous Aperture Antennas," *IEEE Transactions on Wireless Communications*, minor revision. \[[arXiv](https://arxiv.org/abs/2304.06128)\]
 6. **Ziyi Xie**, Wenqiang Yi, Xuanli Wu, Yuanwei Liu, and Arumugam Nallanathan, "Exploiting Index Modulation for Enhanced NOMA," IEEE Global Communications Conference (GLOBECOM), 2023, accepted.
 7. **Ziyi Xie**, Yuanwei Liu, Wenqiang Yi, Xuanli Wu, and Arumugam Nallanathan, "Secrecy Performance Analysis in STAR-RIS-Aided NOMA Networks," *IEEE Global Communications Conference (GLOBECOM)*, 2023, accepted.
@@ -40,7 +40,4 @@ Academic Services
 * Reviewer: IEEE TWC, IEEE TCOM, IEEE TVT, IEEE CL, etc.
 * TPC Member: VTC2022-fall, IEEE ICNC 2019.
 
-#Publications
-#======
-#The main configuration file for the site is in the base directory in [_config.yml]###(https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the #sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your #site's github repository. The configuration file for the top menu is in [_data/navigation.yml]#(https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have #a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
