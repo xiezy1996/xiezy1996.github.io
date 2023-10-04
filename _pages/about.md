@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page :wave:
+Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 😄
 =====
 
 I am pursuing the Ph.D. degree with the School of Electronics and Information Engineering, Harbin Institute of Technology. 
@@ -38,6 +38,6 @@ Educations
 Academic Services
 ------
 * Reviewer: IEEE TWC, IEEE TCOM, IEEE TVT, IEEE CL, etc.
-* TPC Member: VTC2022-fall, IEEE ICNC 2019.
+* TPC Member: VTC2022-fall, IEEE ICNC 2020.
 
 
