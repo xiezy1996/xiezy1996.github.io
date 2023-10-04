@@ -15,7 +15,7 @@ I am pursuing a PhD degree with the School of Electronics and Information Engine
 
 My research focuses on performance analysis on wireless communications. The topics include reconfigurable intelligent surfaces, near-field communications, and next-generation multiple access techniques.
 
-
+If you are interested in my work or in collaborating with me, please feel free to have a discussion with me (ziyi.xie@hit.edu.cn). I am always looking forward to brilliant minds 😊 
 
 Publications
 ------
