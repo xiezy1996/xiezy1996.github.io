@@ -4,8 +4,11 @@ main:
    # url: /research/    
     
   - title: "News"
-    url: "#-News"
+    url: "/#-News"
 
+  - title: "Publications"
+    url: "/#-publications"
+    
   #- title: "Educations"
     #url: /Educations/    
     
