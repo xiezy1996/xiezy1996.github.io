@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 👋
+Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 👋 <a name ="about-me"> <\a>
 =====
 
 I am pursuing a PhD degree with the School of Electronics and Information Engineering, Harbin Institute of Technology. Before this, I earned a bachelor's degree of communication engineering at Harbin Institute of Technology.
@@ -17,11 +17,11 @@ My research focuses on performance analysis on wireless communications. The topi
 
 If you are interested in my work or in collaborating with me, please feel free to have a discussion with me (ziyi.xie@hit.edu.cn). I am always looking forward to brilliant minds 😊 
 
-News
+News <a name ="news"> <\a>
 ------
 * I have been selected to go to the final round (top 15 competitors) of Four-Minute-Thesis (4MT) Competition in the Globecom 2023 !
 
-Publications
+Publications <a name ="publication"> <\a>
 ------
 
 1. **Ziyi Xie**, Yuanwei Liu, Wenqiang Yi, Xuanli Wu, and Arumugam Nallanathan, "[Physical Layer Security for STAR-RIS-NOMA: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/10315044)," *IEEE Transactions on Wireless Communications*, early access.
