@@ -19,7 +19,7 @@ If you are interested in my work or in collaborating with me, please feel free t
 
 News
 ------
-* I have been selected to go to the final round of Four-Minute-Thesis (4MT) Competition in the Globecom 2023 !
+* I have been selected to go to the final round (top 15 competitors) of Four-Minute-Thesis (4MT) Competition in the Globecom 2023 !
 
 Publications
 ------
