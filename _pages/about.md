@@ -11,7 +11,7 @@ redirect_from:
 Hi, I am Ziyi Xie \(谢子怡\). Welcome to my page 👋 <a name ="about-me"> </a>
 =====
 
-I am pursuing a PhD degree with the School of Electronics and Information Engineering, Harbin Institute of Technology. Before this, I earned a bachelor's degree of communication engineering at Harbin Institute of Technology.
+I am an assistant professor with Harbin Institute of Technology, Shenzhen. I received the PhD degree in information and communication engineering from Harbin Institute of Technology in 2024. Before this, I earned a bachelor's degree of communication engineering at Harbin Institute of Technology.
 
 My research focuses on performance analysis on wireless communications. The topics include reconfigurable intelligent surfaces, near-field communications, and next-generation multiple access techniques.
 
