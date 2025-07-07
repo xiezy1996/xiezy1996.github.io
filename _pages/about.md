@@ -15,12 +15,14 @@ I am an assistant professor with Harbin Institute of Technology, Shenzhen. I rec
 
 My research focuses on performance analysis on wireless communications. The topics include reconfigurable intelligent surfaces, near-field communications, and next-generation multiple access techniques.
 
-If you are interested in my work or in collaborating with me, please feel free to have a discussion with me (ziyi.xie@hit.edu.cn). I am always looking forward to brilliant minds 😊 
+If you are interested in my work or in collaborating with me, please feel free to have a discussion with me (xieziyi@hit.edu.cn). I am always looking forward to brilliant minds 😊 
 
 News <a name ="news"> </a>
 ------
-* I have been selected to go to the final round (top 15 competitors) of Four-Minute-Thesis (4MT) Competition in the Globecom 2023 !
-* I won the 3rd prize in Four-Minute-Thesis (4MT) Competition in the Globecom 2023 !
+* I joined Harbin Institute of Technology, Shenzhen, as an assistant professor in October 2024.
+* I won the 3rd prize in Four-Minute-Thesis (4MT) Competition in the Globecom 2023!
+* I have been selected to go to the final round (top 15 competitors) of Four-Minute-Thesis (4MT) Competition in the Globecom 2023!
+
 
 Publications <a name ="publications"> </a>
 ------
